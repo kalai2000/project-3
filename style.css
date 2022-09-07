@@ -1,0 +1,66 @@
+
+.navbar {
+  display: inline;
+}
+
+.list-item {
+  display: inline;
+  padding: 10px;
+}
+.list {
+  position: absolute;
+  top: 20px;
+  right: 500px;
+  color: #ffffff;
+}
+.hero-heading {
+  color: #ffffff;
+  font-size: 40px;
+  max-width: 500px;
+  position: absolute;
+  top: 70px;
+  left: 50px;
+  font-family: sans-serif;
+}
+.rightsidetext {
+  color: #ffffff;
+  position: absolute;
+  top: 120px;
+  right: 250px;
+  max-width: 300px;
+  font-size: 20px;
+}
+.create {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+
+  padding: 10px;
+  border-color: #908033;
+  border-radius: 10px;
+  color: #908033;
+  border-style: solid;
+  background-color: #2b2922;
+}
+body {
+  background-color: #2b2922;
+  margin-bottom: 0px;
+}
+.bimage {
+  position: absolute;
+  top: 300px;
+  bottom: 0px;
+  width: 223vh;
+  height: 46vh;
+  background-repeat: no-repeat;
+
+}
+.hero h1{
+  font-size: 60px;
+}
+.logo
+{
+  margin-top: 20px;
+  height: 20px;
+  margin-left: 20px;
+}
